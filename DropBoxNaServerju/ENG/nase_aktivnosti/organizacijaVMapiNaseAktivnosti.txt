@@ -1,0 +1,4 @@
+mape aktivnosti v njih pa naslednje:
+text datotke z imenom aktivnosti npr BLR6
+prva vrstica ime mape kjer so slike
+ostale vrstice opis aktivnosti na kratko

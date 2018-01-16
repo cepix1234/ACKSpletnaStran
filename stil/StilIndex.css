@@ -1,0 +1,233 @@
+@charset "utf-8";
+
+.glava{
+	background-image:url(../Backgrounds/ACKnapis.png);
+	background-repeat:no-repeat;
+	width:893px;
+	height:187px;
+	font-size: 15px;
+	color: rgba(47,175,1,1);
+}
+.glavaTabela{
+	border-collapse:collapse;
+	border-spacing:0;
+	margin-top:-10px;
+}
+
+
+.GlavniMenuG {
+    background-color: #251e01;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 100%;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.gumbG1 {
+    color: #3bd71a; 
+    border-radius: 50% 0 0 50%;
+	min-width:90px;
+	max-width:110px;
+	width: 10%;
+	height: 10%;
+}
+
+.gumbG1:hover {
+    background-color: #927604;
+    color: #1eac00;
+}
+
+.gumbG2 {
+    color: #3bd71a; 
+	min-width:110px;
+	max-width:130px;
+	width: 10%;
+	height: 10%;
+}
+
+.gumbG2:hover {
+    background-color: #927604;
+    color: #1eac00;
+}
+
+.gumbG4 {
+    color: #3bd71a; 
+	min-width:175px;
+	max-width:195px;
+	width: 11%;
+	height: 10%;
+}
+
+.gumbG4:hover {
+    background-color: #927604;
+    color: #1eac00;
+}
+
+.gumbG3 {
+    color: #3bd71a; 
+    border-radius: 0 50% 50% 0;
+	min-width:100px;	
+	max-width:120px;	
+	width: 10%;
+	height: 10%;
+}
+
+.gumbG3:hover {
+    background-color: #927604;
+    color: #1eac00;
+}
+
+.gumbGD {
+    background-color: #927604;
+    color: #1eac00;
+    border-radius: 50% 0 0 50%;
+	min-width:90px;
+	max-width:110px;
+	width: 10%;
+	height: 10%;
+}
+
+
+div.OzadnjeDesetZadnjihNovic{
+	overflow-x:hidden;
+	overflow-y:scroll;
+	margin-right : 31px;
+	margin-left: -3px;
+	width: 549px;
+	height: 865px;
+	background-image: url(../Backgrounds/ZadnjihPetNovicBackground.png);
+	background-repeat:no-repeat;
+}
+
+
+#scrollbar-custom::-webkit-scrollbar{
+		width:12px;
+		background-color:#715b04;
+	}
+	#scrollbar-custom::-webkit-scrollbar:horizontal{
+		height:12px;
+	}
+	#scrollbar-custom::-webkit-scrollbar-track{
+		border:1px #161612 solid;
+		border-radius:10px;
+		-webkit-box-shadow:0 0 6px #C8C8C8 inset;
+	}
+	#scrollbar-custom::-webkit-scrollbar-thumb{
+		background-color:#8b8e3d;
+		border:1px solid #000000;
+		border-radius:16px;
+	}
+	#scrollbar-custom::-webkit-scrollbar-thumb:hover{
+		background-color:#666919;
+		border:1px solid #000000;
+	}
+	#scrollbar-custom::-webkit-scrollbar-thumb:active{
+		background-color:#8b8e3d;
+		border:1px solid #333333;
+	}
+
+
+div.OzadnjeEneNovice{
+	padding-top: 13px;
+	width: 511px; 
+	height: 200px;
+	background-image:url(../Backgrounds/NovicaBackground.png);
+	background-repeat:no-repeat;
+	color:#FFF;	
+}
+
+
+
+div.slikaPriNovicah
+{
+	margin-top: -5px;
+	margin-left: -245px;
+}
+
+div.NovicaPisava
+{
+	font-size: 15px;
+	color: rgba(47,175,1,1);
+	margin-right: -220px;	
+	margin-left: -60px;
+	margin-top: -5px;
+}
+
+
+div.OzadnjeFacebookZanjiaObjava{
+	width: 500px;
+	height: 324px;
+	background-image: url(../Backgrounds/FacebookZadnjaObjavaBackground.png);
+}
+
+div.FacebookTextIzSltrani{
+	padding-top:140px;
+	padding-right: 6px;
+	margin-left: 6px;
+}
+
+div.PrelomLinkaDoFacebooka{
+	word-break:break-all;
+}
+
+a.LinkDoFacebooka{
+	font-size: 18px;
+}
+
+div.GlavniMenu{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: -10px;
+}
+
+body {
+	background-image: url(../Backgrounds/glavniBackGround.png);	
+}
+
+
+
+div.prostorZaDogodke{
+	padding-top: 10px;	
+}
+
+.galleria-container {
+ background-color: rgba(50,51,24,0.8);
+}
+.galleria-stage
+{
+	background-color: rgba(92,94,46,1);
+}
+
+.galleria{ 
+	width: 500px; 
+	height: 300px; 
+}
+
+
+div.SpodnjiMenuInSponzorji{
+	text-align: left;
+	position:relative;
+	bottom: -10px;
+	margin-left: -10px;
+	width:  100%;
+	height:  80px;
+	background-image:url(../Backgrounds/SpodnjiMenuBackground.png);
+}
+
+.spodnjaTabela {
+	width: 80%;
+}
+
+.spodnjiMenu {
+	color: #551A8B;
+}
+
+.spodnjiMenu:hover {
+	cursor: pointer;
+}

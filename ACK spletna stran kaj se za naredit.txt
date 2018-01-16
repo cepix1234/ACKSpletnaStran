@@ -1,0 +1,34 @@
+﻿ACK Spletna stran
+html:
+	galerija**************done
+	člani***************done
+	aktivnosti*****************done
+	glavnas tran**************done
+	sponzorji*********************done
+	treningi (prijava)*************done
+	tereni ***********************done
+	o nas (besedilo)*************done
+	člani po kliku na sliko se dopre nova sran s opisom itd.. **********************done
+	
+PHP in javascript:
+	novice***************************done
+	facebook povezava*******************done
+	galerija na glavnem meniju***************done
+	izpis vseh članov******************************done
+	prikaz aktivnosti*******************done
+	klik na gumb aktivnosti zamenja vsebino
+	treningi prijava*********************done
+	prikaz vseh terenov**************************done
+	prikaz vseh sponzorjev*****************************done
+	prkiaz vseh map galerije***********************done
+	prikaz vseh slik izbrane mape****************************done
+
+Aleška stran:
+	domov
+	o nas
+	člani
+	naše aktivnosti
+	treningi
+	tereni
+	sponzorji
+	galerija

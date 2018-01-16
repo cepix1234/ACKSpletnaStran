@@ -1,0 +1,3 @@
+﻿text datoteke 
+prva vrstica link do slik novice
+ostale vrstice opis novice

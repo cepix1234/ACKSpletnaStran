@@ -1,0 +1,3 @@
+Mape z imenom clana
+v mapi clana text datoteka in mapa s slikami clana
+v text datoteki opis clana

@@ -1,0 +1,3 @@
+text datoteke kjer piše 
+prva vrstica link do slik terena,
+vrstice naprej pa opis terena.

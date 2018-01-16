@@ -1,0 +1,4 @@
+﻿text datoteka za vsakega sponzorja
+prva vrstica ime sponorja 
+druga vrstica link do spozorja
+ime slike sponzorja v pod mapi slikeSponzorji
